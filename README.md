@@ -1,1 +1,1 @@
-Simple business card app (static data)
+Simple business card app made by some flutter widgets (static data)
